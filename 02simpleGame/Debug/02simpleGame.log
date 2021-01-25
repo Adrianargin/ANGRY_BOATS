@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (02simpleGame.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  funtzioak.c
+C:\Users\miste\Desktop\Nueva carpeta\sdlExamplesVcWS\02simpleGame\game02\funtzioak.c(122,21): warning C4244: 'función': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\miste\Desktop\Nueva carpeta\sdlExamplesVcWS\02simpleGame\game02\funtzioak.c(293,67): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\miste\Desktop\Nueva carpeta\sdlExamplesVcWS\02simpleGame\game02\funtzioak.c(299,73): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\miste\Desktop\Nueva carpeta\sdlExamplesVcWS\02simpleGame\game02\funtzioak.c(415,58): warning C4101: 'soinuaId': variable local sin referencia
+  02simpleGame.vcxproj -> C:\Users\miste\Desktop\Nueva carpeta\sdlExamplesVcWS\Debug\Angry Boats.exe
